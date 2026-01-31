@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+librosa
+scikit-image
+minisom
+tqdm
+jupyter
