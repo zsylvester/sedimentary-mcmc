@@ -66,10 +66,12 @@ p, q, D = sedmc.correlate_logs(log1, log2, exponent=0.15)
 
 ## Example Data
 
-The `data/` directory contains example Wheeler diagram images from the Permian Basin:
+The `data/` directory contains example core images from the Permian Basin:
 - `peterson_wheeler_new.png` - Peterson core
 - `core_5412_wheeler_new.png` - Core 5412
 - `core_4431_wheeler_new.png` - Core 4431
+
+These cores consist of laminae that seem to correlate between cores that are located hundreds of meters or even kilometers apart.
 
 ## License
 
